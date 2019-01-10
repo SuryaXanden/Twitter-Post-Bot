@@ -5,8 +5,8 @@ Python, Selenium and Flask are being used to make the magic happen.
 
 <strong>Setup</strong>
 <ol>
-    <li>git clone "https://github.com/SuryaXanden/Automated-Socialmedia-Posting"</li>
-    <li>cd Automated-Socialmedia-Posting</li>
+    <li>git clone "https://github.com/SuryaXanden/Twitter-Post-Bot"</li>
+    <li>cd Twitter-Post-Bot</li>
     <li>pip install -r requirements.txt</li>
     <li>python app.py</li>
 </ol>
